@@ -1,1 +1,1 @@
-# pebble
+# Pebble app for the Palinta group
